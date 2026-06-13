@@ -115,10 +115,10 @@
 
         Mark {
             bindings = <
-&trans  &trans  &trans  &trans  &trans                      &kp EQUAL      &kp LS(RIGHT_BRACKET)  &kp LS(NON_US_BSLH)    &trans    &trans
-&trans  &trans  &trans  &trans  &trans  &trans      &trans  &kp LS(MINUS)  &kp LEFT_PARENTHESIS   &kp RIGHT_PARENTHESIS  &trans    &kp COLON
-&trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans         &kp RIGHT_BRACKET      &kp NON_US_HASH        &kp INT1  &kp INT3
-&trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans                                                                 &trans
+&trans  &trans  &trans  &trans  &trans                      &kp EQUAL      &kp LS(RIGHT_BRACKET)  &kp LS(NON_US_BSLH)    &trans        &trans
+&trans  &trans  &trans  &trans  &trans  &trans      &trans  &kp LS(MINUS)  &kp LEFT_PARENTHESIS   &kp RIGHT_PARENTHESIS  &trans        &kp COLON
+&trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans         &kp RIGHT_BRACKET      &kp NON_US_HASH        &kp LS(INT1)  &kp LS(INT3)
+&trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans                                                                     &kp INT3
             >;
         };
 
