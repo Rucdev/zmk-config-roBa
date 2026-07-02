@@ -115,9 +115,9 @@
 
         Mark {
             bindings = <
-&trans  &trans  &trans  &trans  &trans                             &kp GT         &kp LS(RIGHT_BRACKET)  &kp LS(NON_US_HASH)  &trans               &trans
-&trans  &trans  &trans  &trans  &trans  &trans      &kp LS(MINUS)  &kp LS(MINUS)  &kp LS(N8)             &kp LS(N9)           &kp LS(NON_US_HASH)  &kp COLON
-&trans  &trans  &trans  &trans  &trans  &trans      &trans         &trans         &trans                 &trans               &kp LS(INT1)         &kp LS(INT3)
+&trans  &trans  &trans  &trans  &trans                             &kp GT             &kp LS(RIGHT_BRACKET)  &kp LS(NON_US_HASH)  &trans           &trans
+&trans  &trans  &trans  &trans  &trans  &trans      &kp LS(MINUS)  &kp RIGHT_BRACKET  &kp LS(N8)             &kp LS(N9)           &kp NON_US_HASH  &kp COLON
+&trans  &trans  &trans  &trans  &trans  &trans      &trans         &trans             &trans                 &trans               &kp LS(INT1)     &kp LS(INT3)
 &trans  &trans  &trans  &trans  &trans  &trans      &trans         &trans                                                                          &kp INT3
             >;
         };
