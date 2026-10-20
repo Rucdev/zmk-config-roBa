@@ -95,10 +95,10 @@
 
         Mark {
             bindings = <
-&trans  &trans     &trans     &trans     &trans                                      &kp GT             &kp LS(RIGHT_BRACKET)  &kp LS(NON_US_HASH)  &trans           &trans
-&trans  &kp LC(S)  &kp LC(C)  &kp LC(V)  &trans  &kp PRINTSCREEN      &kp LS(MINUS)  &kp RIGHT_BRACKET  &kp LS(N8)             &kp LS(N9)           &kp NON_US_HASH  &kp SQT
-&trans  &trans     &trans     &trans     &trans  &trans               &trans         &trans             &trans                 &trans               &kp LS(INT1)     &kp LS(INT3)
-&trans  &trans     &trans     &trans     &trans  &trans               &trans         &trans                                                                          &kp INT3
+&trans     &trans     &trans     &trans     &trans                                      &kp GT             &kp LS(RIGHT_BRACKET)  &kp LS(NON_US_HASH)  &trans           &trans
+&kp MINUS  &kp LC(S)  &kp LC(C)  &kp LC(V)  &trans  &kp PRINTSCREEN      &kp LS(MINUS)  &kp RIGHT_BRACKET  &kp LS(N8)             &kp LS(N9)           &kp NON_US_HASH  &kp SQT
+&trans     &trans     &trans     &trans     &trans  &trans               &trans         &trans             &trans                 &trans               &kp LS(INT1)     &kp LS(INT3)
+&trans     &trans     &trans     &trans     &trans  &trans               &trans         &trans                                                                          &kp INT3
             >;
         };
 
